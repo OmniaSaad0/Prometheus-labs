@@ -35,14 +35,14 @@
 
 ##  5.add any new target to prometheus.yaml  file to monitor different server and run any query on it using promql langauge 
 
-![service up](./Screenshot 2025-03-23 213442.png)
-![add exporter](./Screenshot 2025-03-23 214841.png)
-![running targets1](./Screenshot 2025-03-23 215340.png)
+![service up](./Screenshot%202025-03-23%20213442.png)
+![add exporter](./Screenshot%202025-03-23%20214841.png)
+![running targets1](./Screenshot%202025-03-23%20215340.png)
 
 ##  6.monitor running containers on different server than prometheus one 
 
-![add c-advisor](./Screenshot 2025-03-23 221244.png)
-![targets](./Screenshot Screenshot 2025-03-23 221343.png)
+![add c-advisor](./Screenshot%202025-03-23%20221244.png)
+![targets](./Screenshot%202025-03-23%20221343.png)
 
 
 
